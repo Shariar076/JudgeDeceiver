@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: judge_attack
+Version: 0.0.1
+Summary: library for prompt injection to llm as a judge
+Author: Jiawen Shi
+Author-email: shijiawen1223@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: transformers==4.42.3
+Requires-Dist: ml_collections
+Requires-Dist: fschat>=0.2.36
+
 # JudgeDeceiver
 Official repo of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html) paper: [Optimization-based Prompt Injection Attack to LLM-as-a-Judge](https://arxiv.org/abs/2403.17710).
 

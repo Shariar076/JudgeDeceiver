@@ -1,0 +1,24 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Connected to an existing tunnel process running on this machine.
+
+Open this link in your browser https://vscode.dev/tunnel/mlnlp/home/skabi9001/JudgeDeceiver
+
+[2024-12-29 23:19:44] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 13
+[2024-12-29 23:19:44] info [russh::server] wrote id
+[2024-12-29 23:19:44] info [russh::server] read other id
+[2024-12-29 23:19:44] info [russh::server] session is running
+[2024-12-29 23:19:46] info [rpc.3] Checking /home/skabi9001/.vscode/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/log.txt and /home/skabi9001/.vscode/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/pid.txt for a running server...
+[2024-12-29 23:19:46] info [rpc.3] Starting server...
+[2024-12-29 23:19:46] info [rpc.3] Server started
+[2024-12-29 23:29:18] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 14
+[2024-12-29 23:29:18] info [russh::server] wrote id
+[2024-12-29 23:29:18] info [russh::server] read other id
+[2024-12-29 23:29:18] info [russh::server] session is running
+[2024-12-29 23:29:20] info [rpc.5] Checking /home/skabi9001/.vscode/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/log.txt and /home/skabi9001/.vscode/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/pid.txt for a running server...
+[2024-12-29 23:29:20] info [rpc.5] Found running server (pid=3833649)
